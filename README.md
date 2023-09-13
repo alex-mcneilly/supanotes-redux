@@ -4,8 +4,6 @@ SupaNotes is a personal dynamic, Markdown-supported, note-taking web app inspire
 
 New repository!
 
-_Replace `path-to-your-screenshot.png` with the actual path to a screenshot of your app for a quick preview._
-
 ## Features ✨
 
 - **Markdown Support:** Craft rich-text notes using Markdown syntax.
