@@ -34,7 +34,7 @@ New repository!
    ```
 3. Install the required packages:
    ```
-   npm install
+   npm install react-{???}
    ```
 
 ### Usage
