@@ -25,25 +25,25 @@ New repository!
 ### Installation
 
 1. Clone the repo:
-   \```
+   ```
    git clone https://github.com/alex-mcneilly/supanotes-redux.git
-   \```
+   ```
 2. Navigate to the project directory:
-   \```
+   ```
    cd supanotes
-   \```
+   ```
 3. Install the required packages:
-   \```
+   ```
    npm install
-   \```
+   ```
 
 ### Usage
 
 To start the development server:
 
-\```
+```
 npm start
-\```
+```
 
 Visit `localhost` in your browser to see SupaNotes in action!
 
